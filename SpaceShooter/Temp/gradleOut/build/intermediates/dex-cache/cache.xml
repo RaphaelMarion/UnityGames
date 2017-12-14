@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Raphael/Desktop/Unity Projects/SpaceShooter/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="27.0.2"
+        sha1="37bbe4406c64b2f4de41a220203bc25e6401ca22">
+        <dex dex="/Users/Raphael/Desktop/Unity Projects/SpaceShooter/Temp/gradleOut/build/intermediates/pre-dexed/debug/unity-classes_4dbafb9625b7044ff604571d1a1dfaf55e37a093.jar" />
+    </item>
+
+</items>
